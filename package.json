@@ -1,7 +1,7 @@
 {
   "name": "collectioneventemitter",
   "version": "0.0.1",
-  "description": "A base class to extend for any class that wants to use both array mixins and eventemitter",
+  "description": "A base class to extend for any class that wants to use both UnderscoreJS array mixins and eventemitter",
   "keywords": [
     "event",
     "events",
